@@ -1,0 +1,32 @@
+﻿{
+	"version": 1501890441,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/grass.png",
+		"images/bricks.png",
+		"images/spikes.png",
+		"images/hero-sheet0.png",
+		"images/hero-sheet1.png",
+		"images/sprite-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/burninggrass.png",
+		"images/sprite2-sheet0.png",
+		"images/finish-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/particles.png",
+		"images/sprite5-sheet0.png",
+		"images/secret-sheet0.png",
+		"images/door-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
